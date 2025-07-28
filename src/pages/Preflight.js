@@ -14,7 +14,7 @@ const LIST_DATA=[
   {id:"7" ,value:"Flight Recorder...........................TEST"},
   {id:"8" ,value:"Mach Airspeed Warning .................TEST"},
   {id:"9" ,value:"Stall Warning ..........................TEST"},
-  {id:"10" ,value:"Landing Gear Position Annunciators..........3 GREEN"},
+  {id:"10" ,value:"Landing Gear Position Annunciators....3 GREEN"},
   {id:"11" ,value:"PSEU Annunciator......................EXTINGUISHED"},
   {id:"12" ,value:"Crew Oxygen...................CHECK FLOW"},
   {id:"13" ,value:"Lights Test.....................CHECK/SET BRT or DIM"},
