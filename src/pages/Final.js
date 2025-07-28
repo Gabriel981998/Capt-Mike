@@ -5,9 +5,9 @@ import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from 'react-icons/fa';
 
 
 const LIST_DATA=[
-  {id:"1" ,value:" Attendant Notification........................COMPLETE"},
-  {id:"2" ,value:"Speed Brake...........................................ARMED"},
-  {id:"3" ,value:"Landing Gear..............................DOWN/3 GREEN"},
+  {id:"1" ,value:" Attendant Notification...................COMPLETE"},
+  {id:"2" ,value:"Speed Brake....................................ARMED"},
+  {id:"3" ,value:"Landing Gear...........................DOWN/3 GREEN"},
   {id:"4" ,value:"Flaps...................................SET FOR LANDING"},
 
 
