@@ -5,16 +5,16 @@ import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from 'react-icons/fa';
 
 
 const LIST_DATA=[
-  {id:"1" ,value:" Attendant Notification.......................COMPLETE"},
-  {id:"2" ,value:"Exterior Lights.................................AS NEEDED"},
+  {id:"1" ,value:" Attendant Notification...................COMPLETE"},
+  {id:"2" ,value:"Exterior Lights....................AS NEEDED"},
   {id:"3" ,value:"Engine Start Switches .....................CONT"},
-  {id:"4" ,value:"Auto Throttle............................................ARM"},
+  {id:"4" ,value:"Auto Throttle.................................ARM"},
   {id:"5" ,value:"Transponder.................................TA/RA - AUTO"},
   {id:"6" ,value:"Parking Brake...................................RELEASED"},
   {id:"7" ,value:"Throttles...........................ADVANCE TO 40% N1"},
-  {id:"8" ,value:"Auto Throttle ..................................TO/GA"},
-  {id:"9" ,value:"Positive Rate Of Climb...........................GEAR UP"},
-  {id:"10" ,value:"Flaps................................................RETRACT"},
+  {id:"8" ,value:"Auto Throttle ............................TO/GA"},
+  {id:"9" ,value:"Positive Rate Of Climb.....................GEAR UP"},
+  {id:"10" ,value:"Flaps.............................RETRACT"},
 
   
 
