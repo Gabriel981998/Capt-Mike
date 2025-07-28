@@ -5,17 +5,17 @@ import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from 'react-icons/fa';
 
 
 const LIST_DATA=[
-  {id:"1" ,value:" Bleed Air Panel...................................AUTO"},
+  {id:"1" ,value:" Bleed Air Panel.....................AUTO"},
   {id:"2" ,value:"Pressurization Panel......................LAND ALT ____"},
   {id:"3" ,value:"Passenger Signs .....................ON"},
-  {id:"4" ,value:"Auto Brake Selector.......................................SET"},
-  {id:"5" ,value:"Flight Instruments & Radios............................SET"},
+  {id:"4" ,value:"Auto Brake Selector.............................SET"},
+  {id:"5" ,value:"Flight Instruments & Radios......................SET"},
   {id:"6" ,value:"Altimeters ..............SET LOCAL QNH"},
   {id:"7" ,value:"Recall..........................PUSH/CHECK"},
   {id:"8" ,value:"Landing Data..............____VREF/____MINIMUMS"},
-  {id:"9" ,value:"Exterior Lights.................................CHECK/SET"},
-  {id:"10" ,value:"Engine Start Switches......................CONT"},
-  {id:"11" ,value:"EFIS Panel ..........................SET TERR"},
+  {id:"9" ,value:"Exterior Lights.........................CHECK/SET"},
+  {id:"10" ,value:"Engine Start Switches.................CONT"},
+  {id:"11" ,value:"EFIS Panel ....................SET TERR"},
 
   
 
