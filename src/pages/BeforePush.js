@@ -5,7 +5,7 @@ import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from 'react-icons/fa';
 
 
 const LIST_DATA=[
-  {id:"1" ,value:"Zero Fuel Weight................................SET"},
+  {id:"1" ,value:"Zero Fuel Weight.................SET"},
   {id:"2" ,value:"N1s..____/____ REDUCED SET____MAX SET"},
   {id:"3" ,value:"Vspeeds............V1____,VR____,V2____SET"},
   {id:"4" ,value:"Stab Trim................CONFIRMED SET"},
