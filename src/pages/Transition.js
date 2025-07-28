@@ -5,17 +5,17 @@ import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from 'react-icons/fa';
 
 
 const LIST_DATA=[
-  {id:"1" ,value:" Auto Pilot...........................................ENGAGE"},
-  {id:"2" ,value:"Attendant Notification.......................COMPLETE"},
+  {id:"1" ,value:" Auto Pilot.........................ENGAGE"},
+  {id:"2" ,value:"Attendant Notification.................COMPLETE"},
   {id:"3" ,value:"Cabin Pressurization & Temp................MONITOR"},
   {id:"4" ,value:"Engine Bleeds...................................ON"},
   {id:"5" ,value:"Pack Switches.............................AUTO"},
-  {id:"6" ,value:"APU..........................................................OFF"},
+  {id:"6" ,value:"APU........................................OFF"},
   {id:"7" ,value:"Exterior Lights.................................AS NEEDED"},
-  {id:"8" ,value:"Auto Brake Selector......................................OFF"},
-  {id:"9" ,value:"Landing Gear Lever.............................UP & OFF"},
+  {id:"8" ,value:"Auto Brake Selector............................OFF"},
+  {id:"9" ,value:"Landing Gear Lever....................UP & OFF"},
   {id:"10" ,value:"Altimeters..................SET 29.92/1013"},
-  {id:"11" ,value:"Passenger Signs.............................AS REQUIRED"},
+  {id:"11" ,value:"Passenger Signs...................AS REQUIRED"},
 
   
 
