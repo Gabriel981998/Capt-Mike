@@ -42,7 +42,7 @@ const App = () => {
       <div className='card'>
         <div className='card-header'>
         <h1 className='Firstheader'>Boeing 737 - NG Series Flow/Checklist</h1>
-        <p className='title'>Originator Flight</p>
+        <p className='title'>Originator-Flight</p>
           <div className='Arrowsplite'>
             <div className='arrowseparet'>
             <div>
