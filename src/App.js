@@ -6,8 +6,8 @@ import { FaArrowAltCircleRight } from "react-icons/fa";
 
 
 const LIST_DATA=[
-  {id:"1" ,value:"Dispatch / Load Sheet.............ACQUIRED"},
-  {id:"2" ,value:"DC Voltmeter Selector......................BAT"},
+  {id:"1" ,value:"Dispatch / Load Sheet..........................ACQUIRED"},
+  {id:"2" ,value:"DC Voltmeter Selector...................................BAT"},
   {id:"3" ,value:"DC Battery Switch..........................ON/GUARDED"},
   {id:"4" ,value:"Standby Power Switch.................AUTO/GUARDED"},
   {id:"5" ,value:"Alternate Flaps.............................OFF/GUARDED"},
@@ -15,18 +15,20 @@ const LIST_DATA=[
   {id:"7" ,value:"Wipers.......................................PARK"},
   {id:"8" ,value:"Hydraulic Pumps .......................OFF"},
   {id:"9" ,value:"Landing Gear Lever..................DOWN"},
-  {id:"10" ,value:"Weather Radar............................TEST"},
+  {id:"10" ,value:"Weather Radar..........................................TEST"},
   {id:"11" ,value:"Fire Warning System.............TEST"},
-  {id:"12" ,value:"Ground Power or APU.........................CONNECT"},
-  {id:"13" ,value:"AC Voltmeter Selector................GRD PWR or APU"},
-  {id:"14" ,value:"Electrical Panel.......................CHECK/SET"},
-  {id:"15" ,value:"IRS Selector Switches ............ALIGN/NAV"},
-  {id:"16" ,value:"Emergency Exit Lights.....................ARMED"},
-  {id:"17" ,value:"Air Conditioning Panel....................AS REQUIRED"},
-  {id:"18" ,value:"CDU........................ENTER PRESENT POSITION"},
-  {id:"19" ,value:"Flaps Lever Up.........................VERIFY POSITION"},
-  {id:"20" ,value:"Parking Brake.............SET"},
-  {id:"21" ,value:"Exterior Lights...............SET AS NEEDED"},
+  {id:"12" ,value:"Master Caution.............."},
+
+  {id:"13" ,value:"Ground Power or APU.........................CONNECT"},
+  {id:"14" ,value:"AC Voltmeter Selector................GRD PWR or APU"},
+  {id:"15" ,value:"Electrical Panel.................................CHECK/SET"},
+  {id:"16" ,value:"IRS Selector Switches ............ALIGN/NAV"},
+  {id:"17" ,value:"Emergency Exit Lights..............................ARMED"},
+  {id:"18" ,value:"Air Conditioning Panel....................AS REQUIRED"},
+  {id:"19" ,value:"CDU........................ENTER PRESENT POSITION"},
+  {id:"20" ,value:"Flaps Lever Up.........................VERIFY POSITION"},
+  {id:"21" ,value:"Parking Brake.............SET"},
+  {id:"22" ,value:"Exterior Lights...........................SET AS NEEDED"},
 
 
 
@@ -42,7 +44,7 @@ const App = () => {
       <div className='card'>
         <div className='card-header'>
         <h1 className='Firstheader'>Boeing 737 - NG Series Flow/Checklist</h1>
-        <p className='title'>Originator-Flight</p>
+        <p className='title'>Originator Flight</p>
           <div className='Arrowsplite'>
             <div className='arrowseparet'>
             <div>
