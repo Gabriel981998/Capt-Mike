@@ -5,14 +5,14 @@ import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from 'react-icons/fa';
 
 
 const LIST_DATA=[
-  {id:"1" ,value:"Pushback Time..........................NOTED"},
-  {id:"2" ,value:"Bleed Air Panel.......................CHECK/SET"},
+  {id:"1" ,value:"Pushback Time.......................................NOTED"},
+  {id:"2" ,value:"Bleed Air Panel................................CHECK/SET"},
   {id:"3" ,value:"Start Pressure.................ADEQUATE FOR START"},
-  {id:"4" ,value:"Anti Collision Light........................ON"},
+  {id:"4" ,value:"Anti Collision Light...................................ON"},
   {id:"5" ,value:"Start Sequence .....................ANNOUNCE"},
   {id:"6" ,value:"Right Engine Start Selector Switch..................GRD"},
   {id:"7" ,value:"Right Engine Start Lever.............IDLE AT 21% N2"},
-  {id:"8" ,value:"Left Engine Start Selector Switch................GRD"},
+  {id:"8" ,value:"Left Engine Start Selector Switch.....................GRD"},
   {id:"9" ,value:"Left Engine Start Lever................IDLE AT 21% N2"},
   
 
@@ -77,9 +77,7 @@ const Pushback = () => {
         </div>
 
       </div>
-      <ul>
-        <li className='Link'><a className='Link' href='/Beforetaxi'>BEFORE TAXI</a></li>
-      </ul>
+      
     </div>
   )
 }
