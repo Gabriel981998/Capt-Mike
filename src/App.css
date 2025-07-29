@@ -19,21 +19,23 @@ flex-direction:row-reverse;
 
 .container{
 width: 100vw;
+
   display: flex;
   flex-direction: column;
   align-items: center;
+
   background-color:rgb(5, 4, 32) ;
 }
 .Firstheader{
   color: white;
 }
 .Link{
-  padding-top: 20px;
+
   font-size: 2rem;
   font-weight: 500;
   color: rgb(240, 229, 15);
   cursor: pointer;
-  padding-bottom: 20px;
+
   text-decoration: none;
   margin: 10px;
   
@@ -57,7 +59,7 @@ width: 100vw;
 
 }
 input[type="checkbox"]{
-  outline: 1px auto rgb(22, 215, 229);
+  outline: 1px auto rgb(21, 206, 243);
 }
 
 .arrow{
@@ -72,6 +74,8 @@ input[type="checkbox"]{
   overflow: hidden;
   margin:  0 0.5rem;
   margin-top: 10px;
+
+
   box-shadow:  0px 35px 80px rgb(red, green, blue);
 }
 
