@@ -83,6 +83,21 @@ const Beforetakeoff= () => {
 
 
         <li className='Link'><a className='Link' href='/transition'>10,000K CLIMB/TRANSITION ALT./CRUISER</a></li>
+
+          <p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+          <p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
       </ul>
     </div>
   )
