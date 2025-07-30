@@ -81,7 +81,8 @@ const Taxitogate = () => {
 
       </div>
       <ul>
-        <li className='Link'><a className='Link' href='/engineShoutdown'>ENGINE SHUTDOWN/SECURING AIRCRAFT</a></li>
+        <li className='Link'><a className='Link' href='/engineShoutdown'>ENGINE SHUTDOWN</a></li>
+            <li className='Link'><a className='Link' href='/engineShoutdown'>SECURING AIRCRAFT</a></li>
           <p>.</p>
 <p>.</p>
 <p>.</p>
