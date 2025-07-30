@@ -17,7 +17,7 @@ const LIST_DATA=[
   {id:"9" ,value:"Landing Gear Lever..................DOWN"},
   {id:"10" ,value:"Weather Radar..........................................TEST"},
   {id:"11" ,value:"Fire Warning System.............TEST"},
-  {id:"12" ,value:"Master Caution.............."},
+  {id:"12" ,value:"Master Caution..............RESET"},
 
   {id:"13" ,value:"Ground Power or APU.........................CONNECT"},
   {id:"14" ,value:"AC Voltmeter Selector................GRD PWR or APU"},
