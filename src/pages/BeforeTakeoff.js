@@ -82,7 +82,9 @@ const Beforetakeoff= () => {
       <ul>
 
 
-        <li className='Link'><a className='Link' href='/transition'>10,000K CLIMB/TRANSITION ALT./CRUISER</a></li>
+        <li className='Link'><a className='Link' href='/transition'>10,000K CLIMB</a></li>
+              <li className='Link'><a className='Link' href='/transition'>TRANSITION ALT.</a></li>
+                <li className='Link'><a className='Link' href='/transition'>CRUISER</a></li>
 
           <p>.</p>
 <p>.</p>
