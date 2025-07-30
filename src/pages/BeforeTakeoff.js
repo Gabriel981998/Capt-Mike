@@ -98,6 +98,13 @@ const Beforetakeoff= () => {
 <p>.</p>
 <p>.</p>
 <p>.</p>
+                    <p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
       </ul>
     </div>
   )
