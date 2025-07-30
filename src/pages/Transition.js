@@ -81,6 +81,22 @@ const Transition= () => {
       </div>
       <ul>
         <li className='Link'><a className='Link' href='/Descent'>DESCENT 18,000K/10,000K</a></li>
+          <p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
       </ul>
     </div>
   )
