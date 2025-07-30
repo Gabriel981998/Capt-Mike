@@ -84,6 +84,14 @@ const Beforetaxi = () => {
       </div>
       <ul>
         <li className='Link'><a className='Link' href='/beforetakeoff'>BEFORE TAKEOFF</a></li>
+                    <p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+          
       </ul>
     </div>
   )
