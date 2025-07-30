@@ -59,7 +59,7 @@ const LIST_DATA=[
   {id:"52" ,value:"Reverse Thrust Levers ....VERIFY DOWN"},
   {id:"53" ,value:"Flaps.........................................UP"},
   {id:"54" ,value:"Thrust Levers....FULL FORWARD/FULL CLOSED"},
-  {id:"55" ,value:"Parking Brake (Confirm Adequate HYD Pressure)...SET"},
+  {id:"55" ,value:"Parking Brake .......SET"},
   {id:"56" ,value:"Fuel Cutoff Levers ................CUTOFF"},
   {id:"57" ,value:"Stab Trim Main Elect Cutout..............TEST/SET"},
   {id:"58" ,value:"Fire Bottle Squibs .................TEST"},
